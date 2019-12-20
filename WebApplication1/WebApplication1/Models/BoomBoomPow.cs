@@ -9,6 +9,11 @@ namespace WebApplication1.Models
     {
         public string PropertyA { get; set; }
 
+        public BoomBoomPow()
+        {
+            Console.WriteLine("chica chica ayayaaa");
+        }
+
         public string PropertyB { get; set; }
 
 
