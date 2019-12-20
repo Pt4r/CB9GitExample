@@ -13,5 +13,10 @@ namespace WebApplication1.Models
         {
             Console.WriteLine("chica chica ayayaaa");
         }
+
+        public string PropertyB { get; set; }
+
+
+        //123456
     }
 }
