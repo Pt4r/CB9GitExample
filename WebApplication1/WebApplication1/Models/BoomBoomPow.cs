@@ -7,5 +7,6 @@ namespace WebApplication1.Models
 {
     public class BoomBoomPow
     {
+        public string PropertyA { get; set; }
     }
 }
